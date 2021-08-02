@@ -1,0 +1,70 @@
+{
+  "news": [
+    {
+      "id": "1",
+      "title": "Aenean maximus volutpat ipsum",
+      "description": "Aenean maximus volutpat ipsum, quis lacinia Praesent sagittis eu ante vel tincidunt. Integer nulla nibh fringilla sit amet purus a, lobortis",
+      "title2": "Aenean maximus volutpat ipsum, quis....",
+      "img": "https://www.musictoyourhome.com/wp-content/uploads/2021/04/8-Easy-Guitar-Songs-For-Every-Beginner.jpg",
+      "date": "06 Sep 2019",
+      "time": "06 Sep 2019",
+      "permission": "anish",
+       "every":"All"
+    },
+    {
+      "id": "2",
+      "title": "Aenean maximus volutpat ipsum",
+      "description": "Aenean maximus volutpat ipsum, quis lacinia Praesent sagittis eu ante vel tincidunt. Integer nulla nibh fringilla sit amet purus a, lobortis",
+       "title2":"Aenean maximus volutpat ipsum, quis....",
+      "img": "https://rebootrecording.com/wp-content/uploads/2019/10/music-mixing-apps.jpg",
+      "date": "06 Sep 2019",
+      "time": "06 Sep 2019",
+      "permission": "suba",
+       "every":"All"
+    },
+    {
+      "id": "3",
+      "title": "Aenean maximus volutpat ipsum",
+      "description": "Aenean maximus volutpat ipsum, quis lacinia Praesent sagittis eu ante vel tincidunt. Integer nulla nibh fringilla sit amet purus a, lobortis",
+      "title2": "Aenean maximus volutpat ipsum, quis....",
+      "img": "https://www.musictoyourhome.com/wp-content/uploads/2021/04/8-Easy-Guitar-Songs-For-Every-Beginner.jpg",
+      "date": "06 Sep 2019",
+      "time": "06 Sep 2019",
+      "permission": "chipui",
+      "every": "All"
+    },
+    {
+      "id": "4",
+      "title": "Aenean maximus volutpat ipsum",
+      "description": "Aenean maximus volutpat ipsum, quis lacinia Praesent sagittis eu ante vel tincidunt. Integer nulla nibh fringilla sit amet purus a, lobortis",
+      "title2": "Aenean maximus volutpat ipsum, quis....",
+      "img": "https://rebootrecording.com/wp-content/uploads/2019/10/music-mixing-apps.jpg",
+      "date": "06 Sep 2019",
+      "time": "06 Sep 2019",
+      "permission": "anish",
+      "every": "All"
+    },
+    {
+      "id": "5",
+      "title": "Aenean maximus volutpat ipsum",
+      "description": "Aenean maximus volutpat ipsum, quis lacinia Praesent sagittis eu ante vel tincidunt. Integer nulla nibh fringilla sit amet purus a, lobortis",
+      "title2": "Aenean maximus volutpat ipsum, quis....",
+      "img": "https://www.musictoyourhome.com/wp-content/uploads/2021/04/8-Easy-Guitar-Songs-For-Every-Beginner.jpg",
+      "date": "06 Sep 2019",
+      "time": "06 Sep 2019",
+      "permission": "chipui",
+      "every": "All"
+    },
+    {
+      "id": "6",
+      "title": "Aenean maximus volutpat ipsum",
+      "description": "Aenean maximus volutpat ipsum, quis lacinia Praesent sagittis eu ante vel tincidunt. Integer nulla nibh fringilla sit amet purus a, lobortis",
+      "title2": "Aenean maximus volutpat ipsum, quis....",
+      "img": "https://rebootrecording.com/wp-content/uploads/2019/10/music-mixing-apps.jpg",
+      "date": "06 Sep 2019",
+      "time": "06 Sep 2019",
+      "permission": "chipui",
+      "every": "All"
+    }
+  ]
+}
